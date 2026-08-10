@@ -1,0 +1,11 @@
+{
+  "name": "REIP Field",
+  "short_name": "REIP Field",
+  "description": "Saha personeli için çevrimdışı, salt-okunur elektriksel durum görüntüleme demosu",
+  "start_url": "./field.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071018",
+  "theme_color": "#071018",
+  "lang": "tr-TR"
+}
