@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-10T10:26:00+03:00",
+  "updatedBy": "SCADA-DEMO",
+  "sourceA": true,
+  "sourceB": true,
+  "gridA": true,
+  "gridB": true,
+  "coupler": false,
+  "aux1": true,
+  "cer1": true,
+  "aux2": true,
+  "cer2": true,
+  "baraA": true,
+  "baraB": true,
+  "event": "Sistem normal işletmede"
+}
